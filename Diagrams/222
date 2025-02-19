@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.20001220703125 347.20001220703125" width="123.20001220703125" height="347.20001220703125">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nHVSwU7jMFx1MDAxML33K6JwRYuTNDXpXHJ2eyiC5dBcdTAwMDNCq9XK1NPGirEt26VcdTAwMTTUf2fsljhbRFwiWfKbN/Nmxu99lGW531x1MDAxOcinWVx1MDAwZa9LJlx1MDAwNbdsm59cdTAwMDf8XHUwMDA1rFx1MDAxM1phqIx3pzd2XHUwMDE5ma33ZnpxITUmtNr5aUVcYjkkgYRnUN4h7Vx1MDAwZt6z7D2eQ1x1MDAxOSmFcVx1MDAxMOkxMNBcdTAwMTmfgr+1ipJF1UxoVZQl7Vx1MDAxOcL9QjFcdTAwMGZcdTAwMWPDKyZcdTAwMWSkSIDy+WI2v+Hq/tI/3s6uJv9W9V1XJNWVkHLhdzL25DRcdTAwMGWeYs5b3cGD4L79nH6Af5dl9WbdKnBh9qJHtWFL4XdcdTAwMDEjpEeZWsdcdTAwMWFcdHnF26RKWiGjoSfSP7XUNkifXHUwMDE1XHUwMDEw/iT+xJbdXHUwMDFhO1C853jLlDPM4nMk3vY4VEGqXHUwMDFmJb5cdTAwMWGulFCCm617Slx1MDAwYmLdeuRUJf2O4yDunVx1MDAxNnRMx3WdXHUwMDAyoVx1MDAwNzPn8f3/pmVb9lxm85ChNlJcdTAwMGU3pvhxY58+SU4pj8g+XHJcdTAwMTn4s4HDksLGcHbwQkGrpqFlU1/WJPlJXG7Vncqjf7tkn4ju8YxFc2bMwmPJvjVcdTAwMWNN8IV4g//K5C9cdTAwMDK211+Xf7aKXz469lx1MDAxZvxcdTAwMDZxzv1o/1x1MDAwMYw84l4ifQ==<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="123.20001220703125" height="347.20001220703125" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 51.600006103515625 163.60000610351562)"><path d="M30.62 14.61 C35.36 4.93, 41.7 1.64, 47.59 0.38 C53.48 -0.88, 60.37 1.92, 65.95 7.05 C71.53 12.17, 76.46 20.3, 81.07 31.14 C85.69 41.97, 90.15 56.45, 93.65 72.07 C97.15 87.69, 100.38 106.86, 102.07 124.86 C103.77 142.87, 104.55 161.74, 103.82 180.08 C103.09 198.42, 100.49 218.04, 97.67 234.92 C94.85 251.8, 90.95 268.29, 86.89 281.37 C82.84 294.44, 78.75 305.8, 73.34 313.38 C67.93 320.96, 60.47 325.67, 54.44 326.84 C48.4 328.01, 42.74 325.71, 37.13 320.42 C31.52 315.12, 25.45 306.09, 20.78 295.07 C16.1 284.05, 12.38 269.62, 9.07 254.3 C5.76 238.99, 2.35 221.22, 0.92 203.17 C-0.51 185.13, -0.39 164.71, 0.49 146.02 C1.36 127.33, 3.45 107.74, 6.16 91.05 C8.87 74.36, 12.42 59.02, 16.75 45.87 C21.07 32.71, 29.2 17.47, 32.11 12.11 C35.02 6.74, 33.95 11.31, 34.21 13.67 M41.81 4.03 C47.44 -1.99, 54.26 0.4, 59.95 3.02 C65.64 5.63, 70.67 11.12, 75.94 19.74 C81.21 28.36, 87.63 40.86, 91.56 54.74 C95.5 68.63, 97.77 85.6, 99.58 103.04 C101.38 120.48, 102.45 140.53, 102.41 159.39 C102.37 178.24, 100.9 198.4, 99.34 216.18 C97.78 233.95, 96.34 251.59, 93.05 266.03 C89.76 280.47, 84.97 293.14, 79.61 302.83 C74.24 312.52, 66.91 320.28, 60.85 324.16 C54.78 328.05, 49.01 328.77, 43.2 326.14 C37.4 323.51, 31.17 317.53, 25.99 308.41 C20.81 299.28, 16.05 285.5, 12.13 271.41 C8.2 257.32, 4.39 241.18, 2.44 223.86 C0.49 206.54, 0.23 185.96, 0.45 167.49 C0.67 149.02, 1.84 130.66, 3.77 113.02 C5.7 95.38, 8.58 76.49, 12.04 61.64 C15.51 46.79, 19.5 33.48, 24.53 23.91 C29.56 14.35, 39.34 7.08, 42.23 4.25 C45.11 1.42, 41.93 4.17, 41.86 6.91" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g></svg>
